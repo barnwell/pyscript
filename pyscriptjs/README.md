@@ -10,7 +10,7 @@ A simple webapp to demonstrate the capabilities of PyScript.
 2. If you don't already have Rollup, install it. Rollup can be installed as a
    global resource using:
 
-       $ npm install --global rollup
+       $ npm install rollup
 
 3. Install the demo apps requirements:
 
